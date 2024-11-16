@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|d:\\shalomsac\\shalom_empresarial_usuarios\\presentacion\\veragencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\veragencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\presentacion\\pagado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\pagado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|d:\\shalomsac\\shalom_empresarial_usuarios\\presentacion\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2EE0B-60C8-4F8A-A65F-9425D5B8C1A0}|LogicaNegocio\\LogicaNegocio.csproj|d:\\shalomsac\\shalom_empresarial_usuarios\\logicanegocio\\controladores\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2EE0B-60C8-4F8A-A65F-9425D5B8C1A0}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\controladores\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2EE0B-60C8-4F8A-A65F-9425D5B8C1A0}|LogicaNegocio\\LogicaNegocio.csproj|d:\\shalomsac\\shalom_empresarial_usuarios\\logicanegocio\\servicios\\servicioenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2EE0B-60C8-4F8A-A65F-9425D5B8C1A0}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\servicios\\servicioenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\presentacion\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|d:\\shalomsac\\shalom_empresarial_usuarios\\presentacion\\pagoyape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\pagoyape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\presentacion\\pagoyape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C366ED0-98A6-49BD-AED1-81CC1B70A423}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\pagoyape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerAgencias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\VerAgencias.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VerAgencias.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\VerAgencias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\VerAgencias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:18:59.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Pagado.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Pagado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:18:33.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagoYape.cs",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\PagoYape.cs",
+              "RelativeDocumentMoniker": "Presentacion\\PagoYape.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\PagoYape.cs",
+              "RelativeToolTip": "Presentacion\\PagoYape.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:08:35.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagoYape.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\PagoYape.cs",
+              "RelativeDocumentMoniker": "Presentacion\\PagoYape.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\PagoYape.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\PagoYape.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:07:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\LogicaNegocio\\Controladores\\EnviosController.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Controladores\\EnviosController.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\LogicaNegocio\\Controladores\\EnviosController.cs",
+              "RelativeToolTip": "LogicaNegocio\\Controladores\\EnviosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:44:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioEnvios.cs",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\LogicaNegocio\\Servicios\\ServicioEnvios.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Servicios\\ServicioEnvios.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\LogicaNegocio\\Servicios\\ServicioEnvios.cs",
+              "RelativeToolTip": "LogicaNegocio\\Servicios\\ServicioEnvios.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:40:33.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagar.cs",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagar.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Pagar.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagar.cs",
+              "RelativeToolTip": "Presentacion\\Pagar.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:39:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagar.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Pagar.cs",
+              "ToolTip": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Presentacion\\Pagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Pagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:38:50.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3ha/F007rU=",
+  "success": false,
+  "projectFilePath": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\Controllers\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\AccesoDatos\\AcessoDatos.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "D:\\SHALOMSAC\\SHALOM_EMPRESARIAL_USUARIOS\\AccesoDatos\\AcessoDatos.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

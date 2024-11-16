@@ -1,0 +1,12 @@
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+D:\SHALOMSAC\SHALOM_EMPRESARIAL_USUARIOS\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

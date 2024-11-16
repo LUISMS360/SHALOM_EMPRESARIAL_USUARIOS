@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Vistas\Vistas Principales\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Vistas Principales\FormCargar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Vistas Principales\FormPerfilAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Vistas Principales\IncioCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Vistas Principales\InicioAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Vistas Principales\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\ActualizarAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\CargarAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\EliminarAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\FormAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\RegistrarAgencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasAgencia\VerAgencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\ActualizarCamion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\CargarCamiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\EliminarCamion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\FormCamiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\RegistrarCamiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCamiones\VerCamiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCliente\ActualizarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCliente\CargarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCliente\FormClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasCliente\VerClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\ActualizarConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\CragarConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\EliminarConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\FormConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\RegistrarConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasConductores\VerConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\ActualizarEnvio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\CargarEnvios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\EliminarEnvio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\FormEnvios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\RegistrarEnvio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\VistasEnvios\VerEnvios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
